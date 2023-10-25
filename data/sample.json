@@ -8,10 +8,6 @@
   },
   
   "roles": {
-    "read": true,
-    "write": false,
-    "update": true,
-    "delete": false,
-    "all": true
+    "read": true
   }
 }
