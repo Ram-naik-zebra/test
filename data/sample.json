@@ -6,4 +6,12 @@
     "delete": false,
     "all": true
   },
+  
+  "work": {
+    "read": true,
+    "write": false,
+    "update": true,
+    "delete": false,
+    "all": true
+  },
 }
