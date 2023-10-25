@@ -6,8 +6,4 @@
     "delete": false,
     "all": true
   },
-  
-  "roles": {
-    "read": true
-  }
 }
